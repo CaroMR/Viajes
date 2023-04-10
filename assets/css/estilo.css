@@ -1,0 +1,97 @@
+.foto1 {
+    width: 1100px;
+    height: 600px;
+    padding-left: 0px;
+
+}
+
+.nav-link {
+   color: white;
+   margin-right: 30px;
+   
+   
+
+}
+
+.navbar-brand {
+    color: white;
+    margin-left: 10px;
+ 
+ }
+
+.icono {
+    width: 35px;
+    height: 35px;
+    margin-left: 20px;
+ 
+ }
+
+ .titulo {
+   font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: cabin;
+    padding-top: 40px;
+
+ 
+ } 
+
+ .container {
+    background-color: black;
+    width: 1100px;
+    height: auto;
+    padding-left: 0px;
+    
+
+ 
+  
+}  
+
+
+
+.texto1 {
+   color: white;
+
+
+ 
+}    
+
+ .col-xl-4 {
+    padding-left: 25px;
+    padding-top: 20px;
+    
+  
+}    
+
+.fondi3 {
+    background-color: rgb(101, 196, 243);
+  
+  
+}      
+
+.avion {
+    text-align: center;
+   
+  
+  
+}    
+
+.titulo2 {
+    font-size: 20px;
+     text-align: center;
+     color: white;
+     font-family: cabin;
+     padding-top: 40px;
+ 
+  
+  } 
+
+.col-xl-3 {
+     padding-top: 40px;
+     padding-left: 10px;
+ 
+  
+}   
+
+ 
+ 
